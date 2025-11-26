@@ -1,7 +1,7 @@
 ## Hello! I'm Michelle. I recently completed multiple certificate courses with Coursera and I am excited to start a new career in Data Analytics. 
 
 Certificates 🏅
- Data Analytics
+/n Data Analytics
  Advanced Data Analytics 
  Business Intelligence 
  Python3 

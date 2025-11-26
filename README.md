@@ -1,11 +1,18 @@
-## Hi there 👋
+## Hello! I'm Michelle. I recently completed multiple certificate courses with Coursera and I am excited to start a new career in Data Analytics. 
+  Completed Courses 
+    Data Analytics
+    Advanced Data Analytics 
+    Business Intelligence 
+    Python3 
+    SQL for Data Analysis 
+
 
 <!--
 **M-LeFlore/M-LeFlore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm currently taking a Power BI class.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

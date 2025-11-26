@@ -5,7 +5,10 @@ Certificates 🏅
  - Advanced Data Analytics 
  - Business Intelligence 
  - Python3 
- - SQL for Data Analysis 
+ - SQL for Data Analysis
+ - Excel for Data Analysis
+ - AI Essentials
+   
 
 🌱 I'm currently taking a Power BI class. 
  

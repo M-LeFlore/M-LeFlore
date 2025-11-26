@@ -11,9 +11,10 @@ Certificates 🏅
    
 
 🌱 I'm currently taking a Power BI class. 
- 
- 
 
+ Pronouns: she/her
+ 
+ 
 
 <!--
 **M-LeFlore/M-LeFlore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

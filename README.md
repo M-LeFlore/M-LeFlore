@@ -8,6 +8,8 @@ Certificates 🏅
  - SQL for Data Analysis 
 
 🌱 I'm currently taking a Power BI class. 
+ 
+ 
 
 
 <!--
